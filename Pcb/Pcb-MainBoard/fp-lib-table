@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/../@lib/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/../@lib/kbd-master/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name ormcat)(type KiCad)(uri ${KIPRJMOD}/../@lib/ormcat.pretty)(options "")(descr ""))
+)
