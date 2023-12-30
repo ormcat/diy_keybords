@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name ormcat-symboles)(type Legacy)(uri ${KIPRJMOD}/../@lib/ormcat-symboles.lib)(options "")(descr ""))
-)

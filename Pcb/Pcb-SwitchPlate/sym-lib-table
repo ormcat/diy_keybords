@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/../lib/kbd-master/kicad-symbols/kbd.lib)(options "")(descr ""))
-  (lib (name keeblib)(type Legacy)(uri C:/Users/minoru/Documents/DIYKeyboards/ErgoFine/lib/keeblib.pretty/keeblib.lib)(options "")(descr ""))
-)
